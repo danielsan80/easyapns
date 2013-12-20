@@ -1,0 +1,9 @@
+{
+    "name": "manifestinteractive/easyapns",
+    "license": "LLC",
+    "keywords": ["apns"],
+    "description": "Easy APNs using PHP & MySQ",
+    "autoload": {
+        "psr-0": {"": "src/php/classes"}
+    }
+}
