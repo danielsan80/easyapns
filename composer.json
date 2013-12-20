@@ -1,15 +1,11 @@
 {
     "name": "manifestinteractive/easyapns",
+    "version": "1.0.0",
     "type": "library",
     "license": "LLC",
     "keywords": ["apns"],
     "description": "Easy APNs using PHP & MySQ",
     "autoload": {
-        "psr-0": {"": "src/php/classes"}
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.3.x-dev"
-        }
+        "psr-0": {"": "src/php/classes/"}
     }
 }
