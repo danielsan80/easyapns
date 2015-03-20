@@ -4,7 +4,7 @@
     "type": "library",
     "license": "LLC",
     "keywords": ["apns"],
-    "description": "Easy APNs using PHP & MySQ",
+    "description": "Easy APNs using PHP & MySQL",
     "autoload": {
         "psr-0": {"\\": "src/php/classes/"}
     }
